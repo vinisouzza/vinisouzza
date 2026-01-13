@@ -33,14 +33,5 @@ Sou estudante de Ciência da Computação na UFRPE, com foco em **Engenharia de 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisouzza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisouzza&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contate-me
 - **LinkedIn**: https://www.linkedin.com/in/vinicius-souzapl/
